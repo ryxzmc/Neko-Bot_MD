@@ -1,0 +1,9 @@
+{
+  "name": "neko-bot-md",
+  "version": "2.5.1",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest"
+  }
+}
